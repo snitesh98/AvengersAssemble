@@ -1,4 +1,4 @@
-# Jatin Rungta
+# Nitesh Sharma
 
 ### Location
 
@@ -6,20 +6,22 @@ Allahabad, India
 
 ### Academics
 
-Undergraduate in B.Tech (CSE) from MNNIT
+Undergraduate in B.Tech (IT) from MNNIT
 
 ### Interests
 
 - Linux
+- Android
+- Table Tennis
 
 ### Development
 
-- GG
+- Web
 
 ### Projects
 
-- WILL DO LATER
+- Android Apps
 
 ### Profile Link
 
-[urdarinda] https://github.com/urdarinda
+[snitesh98] https://github.com/snitesh98
